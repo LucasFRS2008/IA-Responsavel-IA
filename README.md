@@ -1,5 +1,5 @@
 🌐 Projeto Online Acesse o site:
-https://lucasfrs2008.github.io/IA-Responsavel-IA/
+https://lucasfrs2008.github.io/IA-Responsavel/
 # IA Responsável
 
 Projeto desenvolvido para a disciplina de Front End Design com o objetivo de conscientizar sobre o uso responsável da Inteligência Artificial.
